@@ -1,1 +1,1 @@
-Flask-WTF==0.14.3
+Flask-WTF==1.1.0
